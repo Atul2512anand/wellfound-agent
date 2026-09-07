@@ -1,0 +1,27 @@
+YOUR NAME
+Phone: 0000000000 | Email: you@example.com
+Location: India (Remote Preferred)
+
+Summary:
+Computer Science student with experience in Cybersecurity, Data Analytics,
+ML/DL, and Full-Stack Development. Seeking Software Engineer, Cybersecurity,
+Data/ML, or Blockchain roles.
+
+Education:
+- Your University — B.Tech + M.Tech in Computer Science (Cybersecurity),
+  Aug 2023 - Present, GPA 8.80/10.
+
+Experience:
+- Company A — Role, Start - End
+  * What you built and the impact, with numbers where possible.
+
+Skills:
+Python, Java, SQL, JavaScript | Flask, FastAPI, React | Docker, Git
+Cybersecurity (OSINT, SOC workflows) | Blockchain (Solidity, Ethereum)
+AI/ML (XGBoost, LangChain, OpenCV) | Pandas, SQL, EDA
+
+---
+HOW TO USE: copy this file to resume.txt in this folder and replace
+everything with your real resume. resume.txt is gitignored and will
+never be committed. Set WELLFOUND_NAME / WELLFOUND_EMAIL / WELLFOUND_PHONE
+env vars (or config.py) to match.

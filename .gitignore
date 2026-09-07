@@ -1,0 +1,14 @@
+.wellfound_browser/
+.wellfound_browser_msedge/
+__pycache__/
+*.pyc
+*.egg-info/
+.venv/
+venv/
+logs/
+data/*.json
+.env
+# Personal files - never commit real resume / contact details
+resume.txt
+resume_new.txt
+resume*.pdf
